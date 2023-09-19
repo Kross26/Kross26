@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kross26
+- 👋 Hi buddy
 - 👀 I’m interested in backend
 - 🌱 I’m currently learning nodejs, angular and typescript
 - 💞️ I’m looking to collaborate on ...
