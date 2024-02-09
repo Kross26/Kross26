@@ -1,6 +1,6 @@
 - 👋 Hi there
 - 👀 I’m interested in backend
-- 🌱 I’m currently learning MEAN STACK
+- 🌱 I’m currently learning development mobile
 
 
 <!---
