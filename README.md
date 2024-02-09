@@ -1,5 +1,5 @@
 - 👋 Hi there
-- 👀 I’m interested in backend
+- 👀 I’m interested in...
 - 🌱 I’m currently learning development mobile
 
 
