@@ -1,6 +1,6 @@
 - 👋 Hi there
-- 👀 I’m interested in...
-- 🌱 I’m currently learning development mobile
+- 👀 I’m interested in development mobile
+- 🌱 I’m currently learning flutter
 
 
 <!---
