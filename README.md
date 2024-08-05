@@ -1,6 +1,6 @@
 - 👋 Hi there
 - 👀 I’m interested in development mobile
-- 🌱 I’m currently learning flutter
+- 🌱 I'm currently learning kotlin/compose
 
 
 <!---
